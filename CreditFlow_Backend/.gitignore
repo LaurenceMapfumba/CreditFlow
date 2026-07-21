@@ -1,0 +1,21 @@
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Application secrets
+application-prod.properties
+application-local.properties
+
+# Uploaded KYC documents
+uploads/
+
+# Logs
+*.log
+logs/

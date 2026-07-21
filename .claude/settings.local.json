@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Laurence Mapfumba\\\\Documents\\\\Personal\\\\School_Project\\\\CreditFlow_Backend\\\\src\\\\main\\\\java\\\\com\\\\creditflow\\\\\" -Recurse -Directory)"
+    ]
+  }
+}
